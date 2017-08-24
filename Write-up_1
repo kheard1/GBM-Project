@@ -1,0 +1,15 @@
+1. I hope to answer the following question: What single nucleotide polymorphisms (SNPs) show a
+highly significant association with the disease glioblastoma multiforme (GBM)?
+
+2. I’m planning to use the GenBank database.
+
+3. So far, I know the following about the GenBank database:
+- This data contains publicly available nucleotide sequences for over 300, 000 formally
+described species.
+- The format design is that of a tabular approach and consists of a feature key, a location,
+and qualifiers.
+- It contains over 180 billion nucleotides of DNA sequences
+
+4. I’ve previously studied a novel drug delivery approach for the treatment of neurodegenerative
+diseases. I think that it will be interesting to find out the SNPs that influence our susceptibility
+to GBM, the most aggressive form of brain tumors.
